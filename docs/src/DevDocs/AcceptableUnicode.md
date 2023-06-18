@@ -12,36 +12,36 @@ etc.), because this can lead to visually ambiguous characters.
 ```
 α # (alpha)
 β # (beta)
+γ # (gamma)
 δ # (delta)
 ϵ # (epsilon)
 ε # (varepsilon)
-γ # (gamma)
+ζ # (zeta)
+η # (eta)
+θ # (theta)
 κ # (kappa)
 λ # (lambda)
 μ # (mu)
 ν # (nu)
-η # (eta)
-ω # (omega)
+ξ # (xi)
 π # (pi)
 ρ # (rho)
 σ # (sigma)
-θ # (theta)
-χ # (chi)
-ξ # (xi)
-ζ # (zeta)
-ϕ # (psi)
 φ # (varphi)
+χ # (chi)
+ψ # (psi)
+ω # (omega)
 ```
 
 ## Acceptable upper-case Greek letters
 
 ```
+Γ # (Gamma)
 Δ # (Delta)
 ∑ # (Sigma)
-Γ # (Gamma)
-Ω # (Omega)
-Ψ # (Psi)
 Φ # (Phi)
+Ψ # (Psi)
+Ω # (Omega)
 ```
 
 ## Acceptable mathematical symbols
